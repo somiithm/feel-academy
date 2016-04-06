@@ -18,5 +18,12 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/somiithm/feel-academy/issues"
+  },
+  "dependencies": {
+    "page": "~1.7.1",
+    "jade": "~1.11.0",
+    "css-loader": "~0.23.1",
+    "raw-loader": "~0.5.1",
+    "jade-html-loader": "0.0.3"
   }
 }
